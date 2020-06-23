@@ -1,0 +1,3 @@
+W utworzonym pliku tekstwoym napisz z jakiego programu do git korzystasz?
+
+Korzystam z programu github Desktop
